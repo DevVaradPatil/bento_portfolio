@@ -2,6 +2,8 @@
 
 This is a bento grid styled animated portfolio with a beautiful UI. You can view the live version [here](https://varadverse.vercel.app/).
 
+![Website Profile](public/website-profile.png)
+
 ### Purpose
 
 The purpose of this project is to provide a visually appealing and interactive portfolio template for developers and designers to showcase their work.
